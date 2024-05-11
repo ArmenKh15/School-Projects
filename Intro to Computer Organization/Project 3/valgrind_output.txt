@@ -1,0 +1,14 @@
+==3959977== Memcheck, a memory error detector
+==3959977== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==3959977== Using Valgrind-3.22.0 and LibVEX; rerun with -h for copyright info
+==3959977== Command: ./project3 testRIGHT.txt testeroutput.txt
+==3959977== Parent PID: 3959207
+==3959977== 
+==3959977== 
+==3959977== HEAP SUMMARY:
+==3959977==     in use at exit: 0 bytes in 0 blocks
+==3959977==   total heap usage: 38,081 allocs, 38,081 frees, 1,080,297 bytes allocated
+==3959977== 
+==3959977== All heap blocks were freed -- no leaks are possible
+==3959977== 
+==3959977== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
